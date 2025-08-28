@@ -1,7 +1,7 @@
 /*
-    1. Crear el contexto    
-    2. Crear el provider
-    3. Crear el hook
+    1. Create the context
+    2. Create the provider
+    3. Create the hook
 */
 
 import { createContext, useContext, useEffect, useState } from "react";
